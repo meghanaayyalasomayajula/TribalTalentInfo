@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "854361244581",
+    "firebase_url": "https://major-1d4a0.firebaseio.com",
+    "project_id": "major-1d4a0",
+    "storage_bucket": "major-1d4a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854361244581:android:0ea076e1de986b16125e4c",
+        "android_client_info": {
+          "package_name": "com.meghana.tribal_repository"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854361244581-56bu9g6urjpa688fuk9ssfcn7871qami.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdX5f0l7BqWNgyDQtNcMGZoUlbg3mXjts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854361244581-56bu9g6urjpa688fuk9ssfcn7871qami.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
