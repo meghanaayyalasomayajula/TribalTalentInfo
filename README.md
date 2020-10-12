@@ -1,6 +1,5 @@
 # tribal_repository
-
-A new Flutter application.
+-Repository for tribal talents.
 
 ## Getting Started
 
