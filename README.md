@@ -1,5 +1,5 @@
 # tribal_repository
--Repository for tribal talents.
+- Repository for tribal talents.
 
 ## Getting Started
 
